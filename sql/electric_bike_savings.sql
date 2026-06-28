@@ -1,5 +1,5 @@
 -- Get savings for commutes done with electric bike --
--- COPY (
+COPY (
     WITH bikeumeter_electric_activities AS (
         SELECT name, date, public_transport_fare, ride_duration_minutes
         FROM read_csv_auto('data/bikeumeter_activities.csv') AS activities
@@ -61,7 +61,7 @@
         ORDER BY year ASC, month_number ASC
     )
 
-    SELECT * FROM e_final_savings;
--- )
--- TO 'results/e_bike_savings.csv'
--- WITH (HEADER, DELIMETER ',');
+    SELECT * FROM e_final_savings
+)
+TO 'results/e_bike_savings.csv'
+WITH (HEADER, DELIMETER ',');
