@@ -379,3 +379,34 @@ id ,name,start_city,end_city,distance_mt,date,public_transport_fare,ride_duratio
 18452654818,swapfiets commute,Amsterdam,Amsterdam,6836.6,2026-05-10T13:10:42Z,€3.10,1263,21.05
 18463491746,swapfiets commute,Amsterdam,Amsterdam,7395.9,2026-05-11T12:36:00Z,€3.15,1509,25.15
 18469071398,swapfiets commute,Amsterdam,Amsterdam,6842.9,2026-05-11T20:51:01Z,€3.10,1308,21.80
+18479585412,not a swapfiets commute,Amsterdam,Amsterdam,7935.2,2026-05-12T16:29:12Z,€3.10,1552,25.87
+18483198433,not a swapfiets commute,Amsterdam,Amsterdam,8016.6,2026-05-12T19:37:33Z,€2.98,1523,25.38
+18504333749,swapfiets commute,Amsterdam,Amsterdam,7321.9,2026-05-14T12:33:30Z,€3.15,1475,24.58
+18515587922,not a swapfiets commute,Amsterdam,Amsterdam,7779,2026-05-15T11:16:58Z,€2.89,1508,25.13
+18521341550,swapfiets commute,Amsterdam,Amsterdam,6883.9,2026-05-15T20:55:40Z,€3.23,1397,23.28
+18529576617,swapfiets commute,Amsterdam,Amsterdam,6850.9,2026-05-16T12:27:36Z,€2.82,1430,23.83
+18534709364,swapfiets commute,Amsterdam,Amsterdam,6890.7,2026-05-16T20:55:25Z,€3.27,1355,22.58
+18542658014,swapfiets commute,Amsterdam,Amsterdam,6899.4,2026-05-17T12:21:53Z,€2.82,1317,21.95
+18548547701,swapfiets commute,Amsterdam,Amsterdam,6842.3,2026-05-17T21:03:52Z,€2.98,1449,24.15
+18554542416,swapfiets commute,Amsterdam,Amsterdam,8136.8,2026-05-18T12:32:46Z,€2.82,1840,30.67
+18560288108,swapfiets commute,Amsterdam,Amsterdam,6843.5,2026-05-18T21:03:20Z,€3.05,1432,23.87
+18586318822,not a swapfiets commute,Amsterdam,Amsterdam,7859.7,2026-05-20T18:43:22Z,€3.05,1515,25.25
+18587990839,not a swapfiets commute,Amsterdam,Amsterdam,7709.7,2026-05-20T21:45:00Z,€3.05,1415,23.58
+18603995317,swapfiets commute,Amsterdam,Amsterdam,7327.6,2026-05-22T04:40:20Z,€2.82,1447,24.12
+18608549312,swapfiets commute,Amsterdam,Amsterdam,6881.6,2026-05-22T13:21:57Z,€3.27,1398,23.30
+18616024764,swapfiets commute,Amsterdam,Amsterdam,6845.7,2026-05-23T04:33:21Z,€2.82,1314,21.90
+18621860784,swapfiets commute,Amsterdam,Amsterdam,6846.4,2026-05-23T13:18:54Z,€3.23,1370,22.83
+18629444721,swapfiets commute,Amsterdam,Amsterdam,6935,2026-05-24T04:31:41Z,€3.15,1315,21.92
+18638170245,swapfiets commute,Amsterdam,Amsterdam,6774.1,2026-05-24T16:41:35Z,€3.05,1326,22.10
+18665992415,swapfiets commute,Amsterdam,Amsterdam,7740.5,2026-05-26T16:22:19Z,€3.05,1520,25.33
+18674729863,swapfiets commute,Amsterdam,Amsterdam,7433.5,2026-05-27T12:17:14Z,€3.15,1490,24.83
+18680995846,swapfiets commute,Amsterdam,Amsterdam,6875.7,2026-05-27T21:02:17Z,€3.05,1393,23.22
+18688799005,swapfiets commute,Amsterdam,Amsterdam,6898.5,2026-05-28T12:25:23Z,€3.31,1366,22.77
+18694682130,swapfiets commute,Amsterdam,Amsterdam,6858.7,2026-05-28T21:02:51Z,€3.05,1335,22.25
+18701938350,swapfiets commute,Amsterdam,Amsterdam,7081,2026-05-29T12:20:07Z,€3.05,1809,30.15
+18707222974,swapfiets commute,Amsterdam,Amsterdam,6850.6,2026-05-29T21:07:22Z,€3.23,1245,20.75
+18715243046,swapfiets commute,Amsterdam,Amsterdam,6943.9,2026-05-30T12:34:53Z,€2.82,1499,24.98
+18720807409,swapfiets commute,Amsterdam,Amsterdam,6399.1,2026-05-30T21:10:17Z,€2.82,1230,20.50
+18750969597,swapfiets commute,Amsterdam,Amsterdam,7048.6,2026-06-02T04:38:29Z,€2.96,1998,33.30
+18765261962,swapfiets commute,Amsterdam,Amsterdam,6695.5,2026-06-03T04:40:23Z,€2.96,1300,21.67
+18770070586,swapfiets commute,Amsterdam,Amsterdam,6860,2026-06-03T13:08:57Z,€3.05,1387,23.12
