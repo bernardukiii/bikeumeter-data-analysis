@@ -1,3 +1,7 @@
 year,month_number,month,e_rides,e_hours_ridden,total_transport_fare_euros,bike_rental,saved_money_euros,paid_for_itself
 2025,12,December,26,10.49,74.67,64.90,9.77,YES!
 2026,1,January,39,15.36,113.50,64.90,48.60,YES!
+2026,2,February,42,14.13,120.99,64.90,56.09,YES!
+2026,3,March,64,23.07,190.59,64.90,125.69,YES!
+2026,4,April,27,9.97,82.37,64.90,17.47,YES!
+2026,5,May,36,14.26,110.08,64.90,45.18,YES!
